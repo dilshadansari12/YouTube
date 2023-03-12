@@ -1,6 +1,6 @@
 This project is a YouTube clone created using ReactJS. It allows users to search for videos using YouTube's API and play them in the player embedded within the app.
 
-
+![Demo image ](https://firebasestorage.googleapis.com/v0/b/myprofile-7ac43.appspot.com/o/Yotube.png?alt=media&token=9934673e-8215-4fd8-8e90-c62b233e16f1)
 **Deployment**
 
 The project has been deployed to Netlify and can be accessed using the following link: https://dreamy-gumption-cad94c.netlify.app/
