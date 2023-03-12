@@ -37,5 +37,5 @@ The YouTube clone has the following features:
 * ReactJS
 * Axios
 * YouTube API
-* Material-UI
+* Tailwind css
 * Netlify
