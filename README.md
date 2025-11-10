@@ -1,4 +1,4 @@
-`This project was created when I was learning JavaScript in 2022`
+'This project was created when I was learning JavaScript in 2022'
 
 This project is a YouTube clone created using ReactJS. It allows users to search for videos using YouTube's API and play them in the player embedded within the app.
 
